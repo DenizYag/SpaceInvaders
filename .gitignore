@@ -2,3 +2,7 @@ Tabellen/Kindesunterhalt.php
 Tabellen/Studenten.php
 .vscode/launch.json
 .vscode/sftp.json
+Kalender/calendar.css
+Kalender/calendar.js
+Kalender/calender.php
+.gitignore
